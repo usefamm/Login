@@ -1,0 +1,46 @@
+body{
+    background-color: whitesmoke;
+}
+.navbar{
+    background-color: rgb(179, 179, 179)!important;
+
+}
+.container{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 300px;
+
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+h1{
+    color: red;
+    margin-left: 2%;
+}
+.list{
+    margin-bottom: 20px;
+}
+.btn{
+    margin-left: 4%;
+}
+.site-footer{
+    width: 91%;
+    margin-left: 5%;
+    border-radius: 10px;
+    background-color: rgb(179, 179, 179);
+    margin-top: 31px;
+    
+}
+.second{
+    background-color: whitesmoke;
+    height: 100px;
+}
+h6{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+p{
+    margin-left: 15px;
+}
